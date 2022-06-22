@@ -1,6 +1,0 @@
-﻿  pch.cpp
-  UnitTest1.cpp
-D:\KPI\post modern\oop\vector\Header.h(11,22): warning C4930: std::vector<int,std::allocator<int>> V(void): функция с прототипом не вызвана (предполагалось определение переменной?)
-D:\KPI\post modern\oop\vector\Header.h(66,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-     Создается библиотека D:\KPI\post modern\oop\vector\x64\Debug\UnitTest1.lib и объект D:\KPI\post modern\oop\vector\x64\Debug\UnitTest1.exp
-  UnitTest1.vcxproj -> D:\KPI\post modern\oop\vector\x64\Debug\UnitTest1.dll
