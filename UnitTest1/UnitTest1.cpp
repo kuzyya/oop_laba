@@ -67,6 +67,5 @@ namespace UnitTest
 			mathVector v2(B);
 			Assert::IsTrue(expected == (v1 * v2));
 		}
-
 	};
 }
